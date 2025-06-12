@@ -4,9 +4,9 @@
 </p>
 
 <p align ="center">
-  <!-- <a  href="https://kristiyansakalyan.github.io" target="_blank">
+  <a  href="https://kristiyansakalyan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a> -->
+  </a>
   <a href="mailto:kristian.sakalian@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -15,6 +15,9 @@
   </a>
   <a href="https://github.com/kristiyansakalyan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=1H2U8RIAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
 
