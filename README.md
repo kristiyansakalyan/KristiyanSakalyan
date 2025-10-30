@@ -30,8 +30,7 @@ Hi, I'm Kristiyan Sakalyan
 ```
 I-am-kristiyansakalyan@github 🖥️
 -----------------------------
-🎓 Master's student in Data Engineering & Analytics @ TUM
-💡 Part-time ML Engineer @ Rohde & Schwarz  
+💡 Research Scientist @ Helmholtz Munich
 📚 Research Interests:
     - Computer Vision
     - Deep Generative Models
